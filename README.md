@@ -3,6 +3,7 @@
 ## Creación de Proyecto y repositorio
 
 1. Crear una carpeta con el mismo nombre que la tarea y entrar en ella.
+
 ![](images/1.png)
 1. Crear repositorio público por defecto.
 ![](images/2.png)  

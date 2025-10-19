@@ -1,0 +1,3 @@
+# creando y añadiendo txt y Excluded en .gitignoregit 
+echo "*.txt" > .gitignore
+echo "Excluded" >> .gitignore

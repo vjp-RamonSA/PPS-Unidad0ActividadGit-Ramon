@@ -8,7 +8,7 @@
 ![](images/2.png)  
 1. Utilizar las indicaciones de github para hacerlo por ssh.
 ![](images/3.png)  
-1. Crear la estrucxtura.
+1. Crear la estructura.
 ![](images/4.png)  
 1. Comprobar el estado del proyecto.
 ![](images/5.png)  
@@ -16,7 +16,7 @@
 ![](images/6.png)
 1. Comprobar el estado de los archivos.  
 ![](images/7.png)  
-1. Hacer listado en forma de arbol para ver que se han cfreado correctamebte.
+1. Hacer listado en forma de árbol para ver que se han creado correctamente.
 ![](images/8.png) 
 1. Copiar el contenido de los ficheros entrando en cada uno
 ![](images/9.png)  
@@ -29,13 +29,13 @@
 ![](images/16.png)
 1. Volver a comprobar el estado de los archivos.  
 ![](images/17.png)  
-1. Añadirlos al area staged.
+1. Añadirlos al área staged.
 ![](images/18.png)
 1. Crear commit con comentario.  
 ![](images/19.png)  
 1. Subir los archivos al repositorio remoto.
 ![](images/20.png)
-1. Revisar en github si estan subidos correctamente.   
+1. Revisar en github si están subidos correctamente.   
 ![](images/21.png) 
 
 ---
@@ -43,7 +43,7 @@
 ## Creación de Proyecto y repositorio
 1. Crear carpeta `Excluded` y entrar en ella.
 ![](images/22.png)  
-1. Crear archivo vacio en la carpeta antes creada.
+1. Crear archivo vacío en la carpeta antes creada.
 ![](images/23.png)  
 1. Crear archivo en el directorio principal con el nombre excluido.txt y algo de contenido.
 ![](images/24.png)  
@@ -58,7 +58,7 @@
 ![](images/29.png)
 1. Hacer un commit.  
 ![](images/30.png)
-1. Comprba el estado del proyecto y que no nos indica nada del seguimientos.  
+1. Comprueba el estado del proyecto y que no nos indica nada del seguimientos.  
 ![](images/31.png)  
 ![](images/32.png)  
 
@@ -67,18 +67,18 @@
 ## Levantar un pequeño Servidor Web con PHP
 1. Crear un archivo html, hacer una copia del archivo y levantar un servidor web
 ![](images/33.png)
-1. Entrar a traves de navegador y con la url para ver que funciona correctamente.  
+1. Entrar a través del navegador y con la url para ver que funciona correctamente.  
 ![](images/34.png) 
 1. Modificar el fichero html. 
 ![](images/35.png)  
 ![](images/36.png)
-1. Refrescar la pagina para ver que cambia el mensaje.    
+1. Refrescar la página para ver que cambia el mensaje.    
 ![](images/37.png)
-1. Añadir los cambios para que no de problemas mas adelante y comprobar el ewstado.  
+1. Añadir los cambios para que no de problemas más adelante y comprobar el estado.  
 ![](images/38.png)
 1. Hacer un `git restore` y refrescar el navegador para ver como vuelve el anterior mensaje.
 ![](images/39.png) 
-1. Hacer un push y comprobar que se han se han subido correctamente. 
+1. Hacer un push y comprobar que se han subido correctamente. 
 ![](images/40.png)
 1. Añadir los cambios y utilizar el comando `git mv` para mover los archivos.  
 ![](images/41.png)
@@ -104,5 +104,8 @@
 ![](images/49.png)
 1. Crear la rama dev a partir de la actual.  
 ![](images/50.png)
-1. Subir los cambios al respositorio remoto de la rama dev 
+1. Subir los cambios al repositorio remoto de la rama dev 
 ![](images/51.png)
+
+
+
